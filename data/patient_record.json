@@ -1,0 +1,37 @@
+{
+  "patient_id": "SYN-00042",
+  "name": "Jordan Alvarez",
+  "discharge_diagnosis": "Congestive heart failure (compensated), post 4-day inpatient stay",
+  "medications": [
+    {
+      "name": "Furosemide",
+      "dosage": "40 mg",
+      "frequency": "once daily in the morning"
+    },
+    {
+      "name": "Lisinopril",
+      "dosage": "10 mg",
+      "frequency": "once daily"
+    },
+    {
+      "name": "Metoprolol succinate",
+      "dosage": "25 mg",
+      "frequency": "once daily"
+    },
+    {
+      "name": "Potassium chloride",
+      "dosage": "20 mEq",
+      "frequency": "once daily"
+    }
+  ],
+  "allergies": ["Penicillin", "Sulfa drugs"],
+  "red_flag_symptoms": [
+    "shortness of breath",
+    "chest pain",
+    "sudden weight gain",
+    "swelling in legs or ankles",
+    "fainting",
+    "irregular heartbeat"
+  ],
+  "follow_up_date": "2026-09-29"
+}
